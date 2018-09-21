@@ -1,0 +1,10 @@
+-----------------------------------------------------------------
+Kyles, Fatthew
+Gross Income: 999
+Adj. Income: 989
+Tax payable: 240.216
+USC: 409.156
+PRSI: 39.96
+Pension payment: 15.4834
+Net Income (after tax, USC, PRSI and pension): 294.184
+-----------------------------------------------------------------

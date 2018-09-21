@@ -1,0 +1,10 @@
+-----------------------------------------------------------------
+Kyles, Ratthew
+Gross Income: 600
+Adj. Income: 590
+Tax payable: 120
+USC: 219.631
+PRSI: 24
+Pension payment: 11.8184
+Net Income (after tax, USC, PRSI and pension): 224.55
+-----------------------------------------------------------------

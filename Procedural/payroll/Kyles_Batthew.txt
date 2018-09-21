@@ -1,0 +1,10 @@
+-----------------------------------------------------------------
+Kyles, Batthew
+Gross Income: 999
+Adj. Income: 989
+Tax payable: 220.984
+USC: 409.156
+PRSI: 39.96
+Pension payment: 16.445
+Net Income (after tax, USC, PRSI and pension): 312.455
+-----------------------------------------------------------------
